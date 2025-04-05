@@ -8,10 +8,10 @@
 ## Usage
 
 1. Choose the directory where you want to keep your dotfiles repo, for example:
-  ```sh
-  cd ~/my-dotfiles
-  ```
-  Or, if you're already in your preferred directory, you can stay there.
+   ```sh
+   cd ~/my-dotfiles
+   ```
+   Or, if you're already in your preferred directory, you can stay there.
 
 2. Run:
    ```sh
