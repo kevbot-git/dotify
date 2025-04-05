@@ -14,8 +14,8 @@
   Or, if you're already in your preferred directory, you can stay there.
 
 2. Run:
-  ```sh
-  DOTFILES_REPO=<username>/<reponame> curl -fsSL https://raw.githubusercontent.com/kevbot-git/dotify/refs/heads/main/dotify-install.sh
-  ```
+   ```sh
+   DOTFILES_REPO=<username>/<reponame> curl -fsSL https://raw.githubusercontent.com/kevbot-git/dotify/refs/heads/main/dotify-install.sh
+   ```
 
-  ...So let's say your dotfiles repo was at `https://github.com/kevbot-git/dotfiles` – you would have `DOTFILES_REPO=kevbot-git/dotfiles`
+   ...So let's say your dotfiles repo was at `https://github.com/kevbot-git/dotfiles` – you would have `DOTFILES_REPO=kevbot-git/dotfiles`
